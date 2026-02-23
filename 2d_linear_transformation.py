@@ -1,9 +1,3 @@
-"""
-2D Linear Transformation Visualizer
-Demonstrates how matrices transform vectors and shapes
-Uses: numpy, matplotlib
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Polygon
